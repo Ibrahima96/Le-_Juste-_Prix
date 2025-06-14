@@ -1,3 +1,3 @@
 # Jouons au juste prix
 
-![prix](RM/prix.jpg)
+![prix](RM/prix.png)
